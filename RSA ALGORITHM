@@ -52,4 +52,5 @@ de=y%n;
 
 printf("Encrypted text : %d ", c);
 
-printf("\nDecrypted text : %d ", m);
+printf("\nDecrypted text : %d ", de);
+}
